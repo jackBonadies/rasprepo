@@ -14,3 +14,4 @@ network={
     }
 
 /etc/dhcpcd.conf edited for static ip
+generate public key on rasppi and add it to github.com
