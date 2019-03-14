@@ -12,3 +12,5 @@ network={
        psk="Your Network's Passphrase"
        key_mgmt=WPA-PSK
     }
+
+/etc/dhcpcd.conf edited for static ip
